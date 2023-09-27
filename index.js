@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("я данил исмагилов!");
